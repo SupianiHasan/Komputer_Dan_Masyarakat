@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # __1964 BASIC Computer Language__
 ### __John Kemeny__ (1926–1992), __Thomas Kurtz__ (b. 1928)
 ___
